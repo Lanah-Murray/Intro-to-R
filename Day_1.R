@@ -36,5 +36,7 @@ laminaria %>% # Tell R which dataset to use
 
 
 
+# Very neat scripting overall
+# It will only improve your skills to explore more code and try some different things other then just that taught in class
 
 
