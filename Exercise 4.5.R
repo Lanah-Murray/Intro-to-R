@@ -27,3 +27,6 @@ Exercise_4_5_3 <- laminaria %>%  # Tell R which dataframe I am using
   
 
   
+## Very neat
+# Great discription along every line of code, keep this up!
+# Overall mark for day 1: 8/10
